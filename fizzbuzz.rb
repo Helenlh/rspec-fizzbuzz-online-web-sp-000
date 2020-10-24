@@ -8,7 +8,5 @@ elsif number % 3 == 0
    return "Fizz" 
   elsif number % 5 == 0 
    return "Buzz"  
-  elsif (
-   return "FizzBuzz" 
- end   
+   end   
  end  
